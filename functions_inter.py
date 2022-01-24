@@ -73,5 +73,3 @@ def print_info(dict):
             print(val[i])
 
 print_info(dojo)
-
-# rikki went too long this time...unfortuantely. 
